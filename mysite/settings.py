@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/1.11/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/1.11/ref/settings/
 """
-
+'''配置文件：应用，中间件，数据库，静态目录等配置'''
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)

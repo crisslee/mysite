@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+'''项目管理，包括数据库建立，服务器运行，测试等'''
 import os
 import sys
 
